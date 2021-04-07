@@ -1,6 +1,11 @@
 # Projekt-ROM
-## Podnaslov
-### Podpodnaslov
-Besedilo. V tem repozitoriju se nahaja projekt, ki ga delamo v ROM-u.
+## Kriptovalute
+V projektnem delu bom predstavil kriptovalue (uvod), ter analiziral zgodovino te tehnologije (popularnost, vrednost, primerjava). Pozornost bom predvsem posvetil Bitcoinu (za namen primerjave).
 
-Zdaj na domačem računalniku urejamo to datoteko.
+NAČRT PROJEKTA
+1. Uvodno besedilo
+2. Pridobitev podatkov z interneta (fokus: Wolfram Data Repositorij)
+3. Primerjava podatkov - analiza
+4. *Projekcija kripto tehnologije na življenje v prihodnosti
+
+Pripravil: Jure Kovač, FMF 2020/21
