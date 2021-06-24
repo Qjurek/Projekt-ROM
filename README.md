@@ -9,3 +9,4 @@ NAČRT PROJEKTA
 4. *Projekcija kripto tehnologije na življenje v prihodnosti
 
 Pripravil: Jure Kovač, FMF 2020/21
+Link do YT posnetka; https://www.youtube.com/watch?v=5GHOoF0F8R0
